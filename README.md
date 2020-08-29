@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Meu nome é **Bernardo**, tenho 25 anos e sou de Paracambi RJ.
+
+
+
+
 <!--
 **BernardoSV/BernardoSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
