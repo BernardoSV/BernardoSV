@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Meu nome é **Bernardo**, tenho 25 anos e sou de Paracambi RJ.
+Meu nome é **Bernardo**, tenho 25 anos e sou de Paracambi RJ. 
+
+- [Linkedin](https://www.linkedin.com/in/bernardostogmuller/)
 
 
 
