@@ -1,8 +1,15 @@
 ### Hi there 👋
 
-Meu nome é **Bernardo**, tenho 25 anos e sou de Paracambi RJ. 
+Meu nome é **[Bernardo](https://www.linkedin.com/in/bernardostogmuller/)**, tenho 26 anos e sou de Paracambi RJ. Sempre fui curioso e entusiasta em relação a tecnologia, o que me fez crescer escutando de todos a minha volta que eu deveria "trabalhar com computador". Talvez por inocência ou rebeldia eu sempre rejeitava essa hipótese, mas a vida acabou achando uma forma de me botar no caminho certo. Agora sou um estudante de programação buscando minha primeira vaga como dev front-end.
 
-- [Linkedin](https://www.linkedin.com/in/bernardostogmuller/)
+Tenho bons conhecimentos em HTML, CSS e Javascript e no momento estou cursando o bootcamp GoStack da Rocketseat, onde estou aprofundando meus conhecimentos em React, React Native, Typescript e Nodejs. 
+
+
+- [PokeQuiz](https://github.com/BernardoSV/PokeQuiz) 
+- [Happy](https://github.com/BernardoSV/nlw-happy)
+- [Bikcraft](https://github.com/BernardoSV/bikcraft)
+- [Alguns projetos pequenos em JS](https://github.com/BernardoSV/Javascript-Iniciante)
+
 
 
 
