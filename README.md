@@ -8,6 +8,7 @@ Tenho bons conhecimentos em HTML, CSS e Javascript e no momento estou cursando o
 - [PokeQuiz](https://github.com/BernardoSV/PokeQuiz) 
 - [Happy](https://github.com/BernardoSV/nlw-happy)
 - [Bikcraft](https://github.com/BernardoSV/bikcraft)
+- [Wildbeast](https://github.com/BernardoSV/wildbeast)
 - [Alguns projetos pequenos em JS](https://github.com/BernardoSV/Javascript-Iniciante)
 
 
