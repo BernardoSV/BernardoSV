@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é **[Bernardo](https://www.linkedin.com/in/bernardostogmuller/)**, tenho 26 anos e sou de Paracambi RJ. Sempre fui curioso e entusiasta em relação a tecnologia, o que me fez crescer escutando de todos a minha volta que eu deveria "trabalhar com computador". Talvez por inocência ou rebeldia eu sempre rejeitava essa hipótese, mas a vida acabou achando uma forma de me botar no caminho certo. Agora sou um estudante de programação buscando minha primeira vaga como dev front-end.
+Meu nome é **[Bernardo](https://www.linkedin.com/in/bernardostogmuller/)**, tenho 26 anos e sou de Paracambi RJ. Sempre fui curioso e entusiasta em relação a tecnologia, o que me fez crescer escutando de todos a minha volta que eu deveria "trabalhar com computador". Talvez por inocência ou rebeldia eu sempre rejeitava essa hipótese, mas a vida acabou achando uma forma de me botar no caminho certo.
 
 Tenho bons conhecimentos em HTML, CSS e Javascript e no momento estou cursando o bootcamp GoStack da Rocketseat, onde estou aprofundando meus conhecimentos em React, React Native, Typescript e Nodejs. 
 
