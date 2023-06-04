@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - Bernardo Stogmuller
-- 🇧🇷 Paracambi/RJ 
 - Front-End Developer at Magazine Luiza :fire:
 - Skills
-  - A/B testing (Maxymiser, Optmize)
+  - A/B testing
   - JS
   - React
   - Next
